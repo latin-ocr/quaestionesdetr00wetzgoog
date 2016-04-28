@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quaestionesdetr00wetzgoog_0006.png"; bbox 0 0 4644 5778; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 575 1143 1662 1337">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 575 1143 1662 1337">
+     <span class='ocr_line' id='line_1_1' title="bbox 575 1143 1662 1337; baseline 0.002 -3"><span class='ocrx_word' id='word_1_1' title='bbox 575 1157 578 1166; x_wconf 73' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 696 1143 1662 1337; x_wconf 71' lang='lat' dir='ltr'><strong>PROGRAMME</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1140 1649 1200 1711">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1140 1649 1200 1711">
+     <span class='ocr_line' id='line_1_2' title="bbox 1140 1649 1200 1711; baseline 0.017 -1"><span class='ocrx_word' id='word_1_3' title='bbox 1140 1649 1200 1711; x_wconf 87' lang='lat' dir='ltr'><strong>DU</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 363 1990 1980 2224">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 363 1912 1980 2224">
+     <span class='ocr_line' id='line_1_3' title="bbox 363 1990 1980 2224; baseline 0.002 -43"><span class='ocrx_word' id='word_1_4' title='bbox 363 1990 912 2184; x_wconf 74' lang='lat' dir='ltr'>COLLEGE</span> <span class='ocrx_word' id='word_1_5' title='bbox 965 2025 1344 2180; x_wconf 67' lang='lat' dir='ltr'><strong>Rom</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1405 2025 1980 2224; x_wconf 62' lang='lat' dir='ltr'>FRANQAIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1103 2621 1243 2724">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1103 2621 1243 2724">
+     <span class='ocr_line' id='line_1_4' title="bbox 1103 2621 1243 2724; baseline 0.036 -6"><span class='ocrx_word' id='word_1_7' title='bbox 1103 2621 1243 2724; x_wconf 78' lang='lat'><strong>1883.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 62 0 2326 5778">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 62 0 2326 5778">
+     <span class='ocr_line' id='line_1_5' title="bbox 62 0 2326 5778; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 62 0 2326 5778; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
